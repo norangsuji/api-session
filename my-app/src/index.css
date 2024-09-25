@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  body {
+    font-family: "Pretendard", sans-serif; /* Pretendard 폰트 적용 */
+  }
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
